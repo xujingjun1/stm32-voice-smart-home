@@ -1,0 +1,19 @@
+# Keil MDK build artifacts
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.scvd
+*.lnp
+*.d
+*.crf
+*.axf
+*.map
+*.htm
+*.build_log.htm
+
+# IDE
+.vscode/
+.idea/
